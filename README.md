@@ -15,12 +15,12 @@ Users should be able to:
   - The email address is not formatted correctly
 - View the optimal layout for the interface depending on their device's screen size
 
-### Built with
+### Technology used:
 
-[HTML5](https://img.shields.io/badge/Built_with-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/Built_with-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[JavaScript](https://img.shields.io/badge/Built_with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Tailwind CSS](https://img.shields.io/badge/Built_with-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/Built_with-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Built_with-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Built_with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Built_with-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## My process
 
